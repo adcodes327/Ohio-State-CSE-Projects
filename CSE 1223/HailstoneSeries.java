@@ -1,6 +1,5 @@
 /** Takes a number from user and runs it through a predetermined while loop. 
  *  Programm outputs all the answers.
- * @version 20200211
  */
 import java.util.Scanner;
 

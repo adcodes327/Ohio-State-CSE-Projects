@@ -1,6 +1,5 @@
 /**
 * Program to reverse a String entered by a user.
-* @version 20200225
 *
 */
 import java.util.Scanner;

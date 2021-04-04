@@ -1,7 +1,5 @@
-**
+/**
  * Program fills an array with the user's inputs
- * @author Connor Roach
- * @version 20200218
  */
 import java.util.Scanner;
 

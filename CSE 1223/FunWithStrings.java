@@ -1,7 +1,6 @@
 /**
  * Lab 3: Practice with strings with the goal of printing name, counting the letters
  * and printing out a greeting and goodbye message.
- * @20200121
  */
 import java.util.Scanner;
 

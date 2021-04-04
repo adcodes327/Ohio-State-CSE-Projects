@@ -16,16 +16,16 @@ public class FillArray {
 		System.out.print("Please enter the number of values to be stored: ");
 		int numVals = Integer.parseInt(scnr.nextLine());
 
-// if user enters a negative number
-		if (numVals < 0) {
+
+		if (numVals < 0) { // if user enters a negative number
 			System.out.println("ERROR! You must enter a non-negative number of digits!");
 		}
-// if user enters 0
-		else if (numVals == 0) {
+
+		else if (numVals == 0) {  // if user enters 0
 			System.out.println("No digits to store? Goodbye!");
 		}
-// if user enters a positive integer
-		else {
+
+		else {  // if user enters a positive integer
 			int userArray[] = new int[numVals];
 			int i = 0;
 			for (i = 0; i < numVals; i++) {
